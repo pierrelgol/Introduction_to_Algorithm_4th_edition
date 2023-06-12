@@ -4,7 +4,7 @@
 #include "InsertionSort.h"
 
 #define MIN_SIZE 10000
-#define MAX_SIZE 100000
+#define MAX_SIZE 10000
 #define STEP_SIZE 10000
 #define NUM_TRIALS 1
 
